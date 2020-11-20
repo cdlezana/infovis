@@ -7,9 +7,8 @@
     ###### Fuente:DEIS, Tableau_Public
 
   - **Archivo de datos de data.world**  
-    ##### The Majority of Advertising Dollars are Now Being Spent Online.  
-      [Descarga](https://cdlezana.github.io/infovis/w46_data.tsv)  
-      ###### Fuente:dataworld.
+    ##### The Majority of Advertising Dollars are Now Being Spent Online.  [Descarga](https://cdlezana.github.io/infovis/w46_data.tsv)  
+    ###### Fuente:dataworld.
 
   - **Publicidad en Medios de Comunicación en U.S**  
     ##### The Majority of Advertising Dollars are Now Being Spent Online. [VER INFORME](https://cdlezana.github.io/infovis/public_medios.html)
