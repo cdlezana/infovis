@@ -6,8 +6,8 @@
     Periodo 2001_2017. [VER_INFORME](https://cdlezana.github.io/infovis/Nac_NR_2001.html)  
     ###### Fuente:DEIS, Tableau_Public
 
-  - **Archivo de datos de data.world**  
-    ##### The Majority of Advertising Dollars are Now Being Spent Online.  [Descarga](https://cdlezana.github.io/infovis/w46_data.tsv)  
+  - **Archivo de datos de data.world, Descarga CSV**  
+    ##### The Majority of Advertising Dollars are Now Being Spent Online.  [DESCARGA](https://cdlezana.github.io/infovis/w46_data.tsv)  
     ###### Fuente:dataworld.
 
   - **Publicidad en Medios de Comunicación en U.S**  
