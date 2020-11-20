@@ -6,16 +6,15 @@ Trabajo de indices de porcentaje de no respuesta de variables relevadas en Estad
 Periodo 2001_2017.
 
 
-[NAC_ING_2001_2017](https://cdlezana.github.io/infovis/Nac_NR_2001.html)
+  [NAC_ING_2001_2017](https://cdlezana.github.io/infovis/Nac_NR_2001.html)
+  ####Fuente:DEIS.
 
-Fuente:DEIS.
-
-**Archivo de datos de data.world**
+##Archivo de datos de data.world
 The Majority of Advertising Dollars are Now Being Spent Online
 
-[w46_data](https://cdlezana.github.io/infovis/w46_data.tsv)
+  [w46_data](https://cdlezana.github.io/infovis/w46_data.tsv)
 
 
-## Publicidad en Medios de Comunicación <h2>
-[public_medios](https:/cdlezana.github.io/infovis/public_medios.html)
+## Publicidad en Medios de Comunicación
+  [public_medios](https:/cdlezana.github.io/infovis/public_medios.html)
 
