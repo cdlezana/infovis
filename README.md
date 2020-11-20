@@ -2,19 +2,16 @@
 
 ## Prácticas del Módulo de Visualización de la Información. ITBA
 
-Trabajo de indices de porcentaje de no respuesta de variables relevadas en Estadisticas Vitales en la Provincia del Chaco.
-Periodo 2001_2017.
+  -**Trabajo de indices de porcentaje de no respuesta de variables relevadas en Estadisticas Vitales en la Provincia del Chaco.
+  Periodo 2001_2017.**
+    [NAC_ING_2001_2017](https://cdlezana.github.io/infovis/Nac_NR_2001.html)
+    Fuente:DEIS.
 
+  -**Archivo de datos de data.world**
+  The Majority of Advertising Dollars are Now Being Spent Online
+    [w46_data](https://cdlezana.github.io/infovis/w46_data.tsv)
+    Fuente:dataworld.
 
-  [NAC_ING_2001_2017](https://cdlezana.github.io/infovis/Nac_NR_2001.html)
-  <h4>Fuente:DEIS.<\h4>
-
-##Archivo de datos de data.world
-  <h3>The Majority of Advertising Dollars are Now Being Spent Online<\h3>
-
-  [w46_data](https://cdlezana.github.io/infovis/w46_data.tsv)
-
-
-## Publicidad en Medios de Comunicación
-  [public_medios](https:/cdlezana.github.io/infovis/public_medios.html)
-
+  -**Publicidad en Medios de Comunicación en U.S**
+    [public_medios](https:/cdlezana.github.io/infovis/public_medios.html)
+    Fuente:dataworld.
