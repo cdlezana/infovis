@@ -17,5 +17,5 @@ The Majority of Advertising Dollars are Now Being Spent Online
 
 
 ## Publicidad en Medios de Comunicación <h2> tag
-[public_medios](https://cdlezana.github.io/infovis/public_medios.html)
+[public_medios](https:/cdlezana./github.io/infovis/public_medios.html)
 
