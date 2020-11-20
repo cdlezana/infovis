@@ -19,3 +19,9 @@
     ##### The Majority of Advertising Dollars are Now Being Spent Online. [VER GRAFICO](https://cdlezana.github.io/infovis//w46_streamgraph.html)
     ###### Fuente:dataworld,RawGraph  
   
+  - **Publicidad en Medios de Comunicación en U.S utilizando Flourish**  
+    ##### The Majority of Advertising Dollars are Now Being Spent Online. [VER GRAFICO](https://cdlezana.github.io/infovis//w46_flourish.html)
+    ###### Fuente:dataworld,RawGraph
+
+
+
