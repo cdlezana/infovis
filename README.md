@@ -23,6 +23,6 @@
     ###### Fuente:dataworld,RawGraph
 
   - **ITBA- TRABAJO FINAL - VISUALIZACIÓN DE INFORMACIÓN**  
-    ##### Análisis de recorrido en motocicleta. Período 16 al 24 de Noviembre 2020. [VER GRAFICO](https://cdlezana.github.io/infovis//tp_final_moto.html)
+    ##### Análisis de recorrido en motocicleta. Período 16 al 24 de Noviembre 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/tp_final_Moto.html)
     ###### Fuente:Datos Propios,Tableaut
 
