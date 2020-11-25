@@ -22,5 +22,7 @@
     ##### The Majority of Advertising Dollars are Now Being Spent Online. [VER GRAFICO](https://cdlezana.github.io/infovis//w46_flourish.html)
     ###### Fuente:dataworld,RawGraph
 
-
+  - **ITBA- TRABAJO FINAL - VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Análisis de recorrido en motocicleta. Período 16 al 24 de Noviembre 2020. [VER GRAFICO](https://cdlezana.github.io/infovis//tp_final_moto.html)
+    ###### Fuente:Datos Propios,Tableaut
 
