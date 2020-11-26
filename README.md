@@ -3,7 +3,7 @@
 ## Prácticas del Módulo de Visualización de la Información. ITBA
 
   - **Trabajo de indices de porcentaje de no respuesta de variables relevadas en Estadisticas Vitales en la Provincia del Chaco.**  
-    Periodo 2001. [VER_INFORME](https://cdlezana.github.io/infovis/Nac_NR_2001.html)
+    Periodo 2001. [VER_INFORME](https://cdlezana.github.io/infovis/Nac_NR_2001.html)  
     Periodo 2001-2017. [VER_INFORME](https://cdlezana.github.io/infovis/Chaco_Nac_2001_2017.html)  
     ###### Fuente:DEIS, Tableau_Public
 
