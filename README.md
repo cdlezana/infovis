@@ -27,3 +27,7 @@
     ##### Análisis de recorrido en motocicleta. Período 16 al 24 de Noviembre 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/tp_final_Moto.html)
     ###### Fuente:Datos Propios,Tableau
 
+ - **PMEV- COMPARACION SEGUN EDAD DE LA MADRE Y NIVEL DE INSTRUCCION (%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de edad de la madre según nivel de instrucción de lol nacidos en la provincia del Chaco, Serie 2010-2017  
+    ##### 06 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/paralela_nac_2020.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs
