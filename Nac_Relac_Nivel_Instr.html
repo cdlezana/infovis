@@ -20,7 +20,15 @@
 	</div>
 	<table class="table table-striped">
 		<tbody>
-			<!-- ngRepeat: color in colors | filter:{'key':searchColor} track by $index --><tr ng-repeat="color in colors | filter:{'key':searchColor} track by $index" class="ng-scope" style="">
+			  <!-- end ngRepeat: color in colors | filter:{'key':searchColor} track by $index --><tr ng-repeat="color in colors | filter:{'key':searchColor} track by $index" class="ng-scope">
+				<td>
+					<p class="light small sample-name ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta_1ria_CEGB_Incomp</font></font></p>
+				</td>
+				<td class="sample">
+					<input type="text" colorpicker="hex" data-color="#ff0" data-ng-style="{'background-color' : color.value, 'color' : foreground(color.value)}" class="sample-color form-control ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched" ng-model="color.value" ng-change="setColor(color.key,color.value)" style="background-color: rgb(246, 21, 21); color: rgb(0, 0, 0);">
+					<div class="clearfix">
+				</div></td>       
+              </tr><!-- ngRepeat: color in colors | filter:{'key':searchColor} track by $index --><tr ng-repeat="color in colors | filter:{'key':searchColor} track by $index" class="ng-scope" style="">
 				<td>
 					<p class="light small sample-name ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1ra_Compl._CEGB_Compl</font></font></p>
 				</td>
@@ -44,17 +52,10 @@
 					<input type="text" colorpicker="hex" data-color="#ff0" data-ng-style="{'background-color' : color.value, 'color' : foreground(color.value)}" class="sample-color form-control ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched" ng-model="color.value" ng-change="setColor(color.key,color.value)" style="background-color: rgb(9, 103, 248); color: rgb(0, 0, 0);">
 					<div class="clearfix">
 				</div></td>
+			
 			</tr><!-- end ngRepeat: color in colors | filter:{'key':searchColor} track by $index --><tr ng-repeat="color in colors | filter:{'key':searchColor} track by $index" class="ng-scope">
 				<td>
-					<p class="light small sample-name ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hasta_1ria_CEGB_Incomp</font></font></p>
-				</td>
-				<td class="sample">
-					<input type="text" colorpicker="hex" data-color="#ff0" data-ng-style="{'background-color' : color.value, 'color' : foreground(color.value)}" class="sample-color form-control ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched" ng-model="color.value" ng-change="setColor(color.key,color.value)" style="background-color: rgb(246, 21, 21); color: rgb(0, 0, 0);">
-					<div class="clearfix">
-				</div></td>
-			</tr><!-- end ngRepeat: color in colors | filter:{'key':searchColor} track by $index --><tr ng-repeat="color in colors | filter:{'key':searchColor} track by $index" class="ng-scope">
-				<td>
-					<p class="light small sample-name ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nivel_ignorado</font></font></p>
+					<p class="light small sample-name ng-binding"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">No tiene conyuge</font></font></p>
 				</td>
 				<td class="sample">
 					<input type="text" colorpicker="hex" data-color="#ff0" data-ng-style="{'background-color' : color.value, 'color' : foreground(color.value)}" class="sample-color form-control ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched" ng-model="color.value" ng-change="setColor(color.key,color.value)" style="background-color: rgb(1, 243, 44); color: rgb(255, 255, 255);">
