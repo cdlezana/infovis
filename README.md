@@ -31,3 +31,8 @@
     ##### Comparación de edad de la madre según nivel de instrucción de lol nacidos en la provincia del Chaco, Serie 2010-2017  
     ##### 06 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Nac_Relac_Nivel_Instr.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs
+    
+  - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y PADRE(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y el Padre de lol nacidos en la provincia del Chaco, Serie 2010-2017  
+    ##### 06 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Nac_Relac_Nivel_Instr.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs   
