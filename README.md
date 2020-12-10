@@ -36,3 +36,9 @@
     ##### Comparación de nivel de instrucción de la Madre y el Padre de lol nacidos en la provincia del Chaco, Serie 2010-2017  
     ##### 06 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Pd.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs   
+
+
+- **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y CANTIDAD DE EMBARAZOS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y cantidad de embarazos en la provincia del Chaco, Serie 2010-2017  
+    ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Cant_Embarazo.html)
+
