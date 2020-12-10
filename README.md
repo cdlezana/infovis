@@ -41,4 +41,8 @@
 - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y CANTIDAD DE EMBARAZOS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
     ##### Comparación de nivel de instrucción de la Madre y cantidad de embarazos en la provincia del Chaco, Serie 2010-2017  
     ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Cant_Embarazo.html)
+    
+- **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y LOCAL DE OCURRENCIA DEL PARTO(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y local de ocurrencia del parto en la provincia del Chaco, Serie 2010-2017  
+    ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Local_Ocurrencia.html)
 
