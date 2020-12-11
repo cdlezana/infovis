@@ -51,3 +51,9 @@
     ##### Comparación de nivel de instrucción de la Madre y ignoraodos de varias variables relevadas en la provincia del Chaco, Serie 2010-2017  
     ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_Analisis_R2.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Tableau
+
+
+- **PMEV- ANÁLISIS NIVEL DE INSTRUCCION MADRE Y CONVIVENCIA EN PAREJA(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Relación de nivel de instrucción de la Madre y convivencia en pareja en la provincia del Chaco, Serie 2010-2017  
+    ##### 10 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_CONV_PAREJA.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
