@@ -60,5 +60,5 @@
 
 - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y SISTEMA DE SALUD(%)- VISUALIZACIÓN DE INFORMACIÓN**  
     ##### Comparación de nivel de instrucción de la Madre y su sistema de salud asociada en la provincia del Chaco, Serie 2010-2017  
-    ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Paralelas.html)
+    ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Paralelas_Nac_2020.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs
