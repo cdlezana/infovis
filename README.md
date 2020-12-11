@@ -37,12 +37,17 @@
     ##### 06 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Pd.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs   
 
-
 - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y CANTIDAD DE EMBARAZOS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
     ##### Comparación de nivel de instrucción de la Madre y cantidad de embarazos en la provincia del Chaco, Serie 2010-2017  
     ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Cant_Embarazo.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs
     
 - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y LOCAL DE OCURRENCIA DEL PARTO(%)- VISUALIZACIÓN DE INFORMACIÓN**  
     ##### Comparación de nivel de instrucción de la Madre y local de ocurrencia del parto en la provincia del Chaco, Serie 2010-2017  
     ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/Rel_Nivel_Instr_Md_Local_Ocurrencia.html)
-
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : RAWGraphs
+    
+- **PMEV- ANÁLISIS NIVEL DE INSTRUCCION MADRE Y IGNORADOS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y ignoraodos de varias variables relevadas en la provincia del Chaco, Serie 2010-2017  
+    ##### 09 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_Analisis_R2_.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Tableau
