@@ -65,6 +65,6 @@
     
 - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y PERSONA QUE ATENDIO EL PARTO(%)- VISUALIZACIÓN DE INFORMACIÓN**  
     ##### Comparación de nivel de instrucción de la Madre y persona que atendio el parto en la provincia del Chaco, Serie 2010-2017  
-    ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_ATEND_PARTO.html)
+    ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_ATENC_PARTO.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
     
