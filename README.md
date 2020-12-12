@@ -62,3 +62,9 @@
     ##### Comparación de nivel de instrucción de la Madre y su sistema de salud asociada en la provincia del Chaco, Serie 2010-2017  
     ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_SIST_SALUD.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
+    
+- **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y PERSONA QUE ATENDIO EL PARTO(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y persona que atendio el parto en la provincia del Chaco, Serie 2010-2017  
+    ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_ATEND_PARTO.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
+    
