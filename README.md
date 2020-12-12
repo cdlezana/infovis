@@ -68,3 +68,8 @@
     ##### 11 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_ATENC_PARTO.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
     
+ - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y PESO DEL NACIDO VIVO GRAMOS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y peso registrado del nacido vivo en la provincia del Chaco, Serie 2010-2017  
+    ##### 12 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_PESO_NAC.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
+    
