@@ -73,3 +73,8 @@
     ##### 12 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_PESO_NAC.html)
     ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
     
+  - **PMEV- RELACION NIVEL DE INSTRUCCION MADRE Y TIEMPO DE GESTACION DEL EMBARAZO EN SEMANAS(%)- VISUALIZACIÓN DE INFORMACIÓN**  
+    ##### Comparación de nivel de instrucción de la Madre y tiempo de gestación del embarazo(%) en la provincia del Chaco, Serie 2010-2017  
+    ##### 12 de Diciembre de 2020. [VER GRAFICO](https://cdlezana.github.io/infovis/PMEV_TIEMPO_GEST.html)
+    ###### Fuente:Datos DEIS - INDEC Autor : Lezana, Claudio Tools : Flourish
+    
